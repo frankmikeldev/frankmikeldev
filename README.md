@@ -10,7 +10,7 @@ Aspiring Frontend Developer | Building **Naija School Help**
 - Git & GitHub basics
 
 ### How to reach me:
-- Email: frankmikel84@gmail.con
+- Email: frankmikel84@gmail.com
 - Twitter: https://x.com/042mikel?s=21
 
 > "Learning in public. Building for impact."
