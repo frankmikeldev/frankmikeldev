@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Frank 👋
 
-<!--
-**frankmikeldev/frankmikeldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Frontend Developer | Building **Naija School Help**
 
-Here are some ideas to get you started:
+### What I'm working on:
+- Naija School Help (educational platform for WAEC & JAMB prep)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm learning:
+- HTML, CSS, JavaScript
+- Git & GitHub basics
+
+### How to reach me:
+- Email: frankmikel84@gmail.con
+- Twitter: https://x.com/042mikel?s=21
+
+> "Learning in public. Building for impact."
